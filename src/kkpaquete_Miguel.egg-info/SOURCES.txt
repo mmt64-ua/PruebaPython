@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+src/kkpaquete_Miguel/__init__.py
+src/kkpaquete_Miguel/resta.py
+src/kkpaquete_Miguel/suma.py
+src/kkpaquete_Miguel.egg-info/PKG-INFO
+src/kkpaquete_Miguel.egg-info/SOURCES.txt
+src/kkpaquete_Miguel.egg-info/dependency_links.txt
+src/kkpaquete_Miguel.egg-info/top_level.txt
+src/kkpaquete_Miguel/extra/__init__.py
+src/kkpaquete_Miguel/extra/otras.py

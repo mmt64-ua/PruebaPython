@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: kkpaquete_Miguel
+Version: 0.0.1
+Summary: Un paquete de ejemplo de PCC
+Author-email: Miguel Macia-Titos <mmt64@gcloud.ua.es>
+Project-URL: Homepage, https://github.com/mmt64-ua/PruebaPython
+Keywords: ejemplo,setuptools,pcc
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3 :: Only
+Requires-Python: >=3.10.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# PruebaPython
